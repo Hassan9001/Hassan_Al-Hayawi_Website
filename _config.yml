@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: Hassan9001/Hassan_Al-Hayawi_Website
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  Hassan9001
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -60,12 +60,12 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/Hassan9001
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Hassan9001/Hassan_Al-Hayawi_Website
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/Hassan9001/Hassan_Al-Hayawi_Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -79,9 +79,9 @@ content:
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Hassan9001/Hassan_Al-Hayawi_Website
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/Hassan9001/Hassan_Al-Hayawi_Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
