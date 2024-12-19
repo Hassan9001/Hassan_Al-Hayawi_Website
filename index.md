@@ -7,3 +7,4 @@
 #
 layout: default
 ---
+![Banner](images/LinkedinBanner.png "Banner")
