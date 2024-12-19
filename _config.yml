@@ -6,9 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Hassan Al-Hayawi
+title: Machine Learning Engineer
+email: Halhaya@uwo.ca
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -48,7 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+• My work experience has equipped me with robust research skills, particularly in statistics, machine learning, and analysis of large neuroimaging datasets for multiple imaging modalities.
+• My machine learning skills are highlighted through various projects in which I manage end-to-end ML pipelines, develop and evaluate models, process and analyze data for cleaning and feature engineering, etc...
+• I have Deep knowledge of machine learning frameworks such as PyTorch and TensorFlow.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
